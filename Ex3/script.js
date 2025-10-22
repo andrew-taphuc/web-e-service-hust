@@ -30,24 +30,27 @@ document.addEventListener('DOMContentLoaded', function() {
         if (addProductSection.classList.contains('hidden')) {
             addProductSection.classList.remove('hidden');
             addProductBtn.textContent = 'Đóng form';
+            // Thêm màu nền để form dễ nhận biết
+            addProductSection.style.backgroundColor = '#1a1a2e';
+            addProductSection.style.border = '2px solid #58a6ff';
         } else {
             addProductSection.classList.add('hidden');
             addProductBtn.textContent = 'Thêm sản phẩm';
             // Reset form khi đóng
             addProductForm.reset();
+            // Xóa màu nền khi đóng form
+            addProductSection.style.backgroundColor = '';
+            addProductSection.style.border = '';
         }
     }
     
     // Gắn sự kiện cho nút tìm kiếm
     searchBtn.addEventListener('click', searchProducts);
     
-    // Gắn sự kiện cho ô input tìm kiếm (tìm kiếm real-time)
+    //Cải thiện UX bằng cách ấn enter để tìm mà không cần chuột
     searchInput.addEventListener('keyup', function(event) {
-        // Tìm kiếm khi nhấn Enter hoặc khi có thay đổi
+        // Chỉ tìm kiếm khi nhấn Enter
         if (event.key === 'Enter' || event.keyCode === 13) {
-            searchProducts();
-        } else {
-            // Tìm kiếm real-time khi gõ
             searchProducts();
         }
     });

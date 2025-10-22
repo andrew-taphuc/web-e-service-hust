@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fujifilm X100V",
+    "image": "https://cdn.vjshop.vn/may-anh/compact/fujifilm/fujifilm-x100v-black/fujifilm-x100v-black-500x500.jpg",
+    "description": "Máy ảnh compact cao cấp với cảm biến APS-C X-Trans CMOS 4, mang lại chất lượng ảnh tuyệt vời và thiết kế cổ điển tinh tế.",
+    "price": "32.500.000₫",
+    "category": "camera"
+  },
+  {
+    "name": "Canon AE-1",
+    "image": "https://cdn.assets.lomography.com/f0/1537ca53a6d7bbb99d637dde9994e5f03a9d68/1200x921x2.jpg?auth=6dc8bfe48bec9b02dc534cccd97aea03df34bdf1",
+    "description": "Máy ảnh film 35mm huyền thoại dành cho người yêu phong cách hoài cổ, dễ sử dụng và mang lại màu sắc film chân thực, sống động.",
+    "price": "5.200.000₫",
+    "category": "camera"
+  },
+  {
+    "name": "Kodak Gold 200",
+    "image": "https://product.hstatic.net/200000664119/product/kodak_gold_hop_nhua_0741bbf198b943279bf5735734ab8443.jpg",
+    "description": "Cuộn film màu 35mm phổ biến với tông vàng ấm áp đặc trưng, lý tưởng cho chụp chân dung, du lịch và phong cảnh.",
+    "price": "250.000₫",
+    "category": "film"
+  },
+  {
+    "name": "Canon EF 50mm f/1.8 STM",
+    "image": "https://cdn.vjshop.vn/ong-kinh/canon/ef-50mm-f1-8-stm/canon-ef-50mm-f1-8-stm-500x500.jpg",
+    "description": "Ống kính prime 50mm với khẩu độ f/1.8, lý tưởng cho chụp chân dung và nhiếp ảnh street với độ sắc nét cao và bokeh đẹp.",
+    "price": "3.500.000₫",
+    "category": "lens"
+  },
+  {
+    "name": "Fujifilm Instax Mini 11",
+    "image": "https://cdn.vjshop.vn/may-anh/instant/fujifilm/instax-mini-11/fujifilm-instax-mini-11-sky-blue-500x500.jpg",
+    "description": "Máy ảnh instant nhỏ gọn với thiết kế đáng yêu, tự động điều chỉnh độ sáng và flash, hoàn hảo cho những khoảnh khắc vui vẻ.",
+    "price": "1.800.000₫",
+    "category": "camera"
+  },
+  {
+    "name": "Sony A7 III",
+    "image": "https://cdn.vjshop.vn/may-anh/mirrorless/sony/sony-a7-iii/sony-a7-iii-body-500x500.jpg",
+    "description": "Máy ảnh mirrorless full-frame với cảm biến 24.2MP, khả năng chụp ảnh và quay video chuyên nghiệp, pin lâu và tốc độ lấy nét nhanh.",
+    "price": "45.000.000₫",
+    "category": "camera"
+  },
+  {
+    "name": "Tripod Manfrotto Compact Action",
+    "image": "https://cdn.vjshop.vn/phu-kien/tripod/manfrotto/compact-action/manfrotto-compact-action-black-500x500.jpg",
+    "description": "Chân máy ảnh nhỏ gọn và nhẹ, dễ dàng mang theo khi du lịch, có thể chuyển đổi thành monopod, chịu tải lên đến 2.5kg.",
+    "price": "1.200.000₫",
+    "category": "accessory"
+  },
+  {
+    "name": "Ilford HP5 Plus 400",
+    "image": "https://product.hstatic.net/200000664119/product/ilford_hp5_plus_400_35mm_hop_nhua_0741bbf198b943279bf5735734ab8443.jpg",
+    "description": "Film đen trắng ISO 400 với độ tương phản cao và grain đẹp, phù hợp cho nhiếp ảnh street và chân dung nghệ thuật.",
+    "price": "180.000₫",
+    "category": "film"
+  }
+]
